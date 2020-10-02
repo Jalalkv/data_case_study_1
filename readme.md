@@ -1,4 +1,4 @@
-# Case Study: A Fund Raising Net Return Prediction Model
+<!-- # Case Study: A Fund Raising Net Return Prediction Model -->
 
 ## Background and objectives
 
@@ -24,43 +24,31 @@ Learning Data Set
 Target Variable: Binary Indicator of Response to
 Mailing
 
-TARGET_B Frequency Percent
-
----
-
-         0      90569      94.9
-         1       4843       5.1
+| TARGET_B | Frequency | Percent |
+| -------- | --------- | ------- |
+| 0        | 90569     | 94.9    |
+| 1        | 4843      | 5.1     |
 
 Target Variable: Donation Amount (in \$) to Mailing
 
-Variable N Mean Minimum Maximum
-
----
-
-TARGET_D 95412 0.7930732 0 200.0000000
-
----
+| Variable | N     | Mean      | Minimum | Maximum     |
+| -------- | ----- | --------- | ------- | ----------- |
+| TARGET_D | 95412 | 0.7930732 | 0       | 200.0000000 |
 
 Validation Data Set
 Target Variable: Binary Indicator of Response to
 Mailing
 
-TARGET_B Frequency Percent
-
----
-
-         0      91494      94.9
-         1       4873       5.1
+| TARGET_B | Frequency | Percent |
+| -------- | --------- | ------- |
+| 0        | 91494     | 94.9    |
+| 1        | 4873      | 5.1     |
 
 Target Variable: Donation Amount (in \$) to Mailing
 
-Variable N Mean Minimum Maximum
-
----
-
-TARGET_D 96367 0.7895819 0 500.0000000
-
----
+| Variable | N     | Mean      | Minimum | Maximum     |
+| -------- | ----- | --------- | ------- | ----------- |
+| TARGET_D | 96367 | 0.7895819 | 0       | 500.0000000 |
 
 ### Cost Matrix
 
