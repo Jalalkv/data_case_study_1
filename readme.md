@@ -1,4 +1,4 @@
-<!-- # Case Study: A Fund Raising Net Return Prediction Model -->
+# Case Study: A Fund Raising Net Return Prediction Model
 
 ## Background and objectives
 
